@@ -14,8 +14,5 @@ tmp/
 log/
 
 # exclude any development-specific files
-*.env
-*.log
-*.test
-*.out
-coverage*
+.env
+
