@@ -1,0 +1,86 @@
+{"time":"2024-12-26T13:02:30.643462384+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:02:30.643969843+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:12:23.903669514+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:12:23.905138174+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:12:27.339016899+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:12:27.339659916+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:12:43.621123382+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:12:43.622591249+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:12:47.696145887+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:12:47.696812885+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:13:06.267309289+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:13:06.26769227+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:13:20.047319603+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:13:20.047799914+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:13:59.493933295+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:13:59.494365536+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:14:06.992669779+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:14:06.99316548+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:14:14.090621362+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:14:14.092663306+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:15:18.340709408+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:15:18.341165242+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:17:03.351861224+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:17:03.352315376+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:17:10.884144702+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:17:10.887046208+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:17:30.168151798+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:17:30.168577369+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:17:36.294573508+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:17:36.295123446+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:18:05.039460065+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:18:05.039832973+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:18:50.053296396+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:18:50.05371671+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:19:06.55808927+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:19:06.558723537+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:19:23.075584086+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:19:23.076105895+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:19:48.219716272+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:19:48.2201483+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:20:07.881498506+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:20:07.882030424+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:20:20.158916238+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:20:20.159378494+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:20:46.109868174+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:20:46.110371086+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:20:59.000146595+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:20:59.000582911+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:21:58.853177383+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:21:58.854534389+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:22:05.310035951+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:22:05.311678255+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:22:26.337058186+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:22:26.337495189+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:22:45.823481119+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:22:45.823873821+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:23:21.13975199+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:23:21.140225747+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:23:28.095964967+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:23:28.097137974+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:23:42.257470118+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:23:42.257866208+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:42:28.84181829+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:42:28.84341599+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:42:32.875884573+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:42:32.876946798+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:43:01.903476513+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:43:01.904458276+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:43:23.453914837+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:43:23.454493787+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:44:10.926373948+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:44:10.926836709+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:44:19.495402523+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:44:19.496588292+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:44:42.838524837+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:44:42.838917191+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:48:05.63499371+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:48:05.635502118+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:49:18.942238072+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:49:18.942761115+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:49:25.972992+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:49:25.973590822+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:50:04.038671692+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:50:04.039084429+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
+{"time":"2024-12-26T13:50:07.998738182+03:00","level":"INFO","msg":"Starting the application","app":"book-store","env":"development"}
+{"time":"2024-12-26T13:50:07.999110324+03:00","level":"INFO","msg":"Starting the HTTP server","listen_address":"127.0.0.1:8080"}
