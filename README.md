@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple Book Store application built in Go. The project is created as part of my learning journey to understand Hexagonal Architecture and web application development.
+This is a simple Book Store application built in Go. The project is created as part of my learning journey to understand Hexagonal Architecture and Go development principles.
 
 ## Features
 - **Hexagonal Architecture:** Encourages clean code and scalability.
