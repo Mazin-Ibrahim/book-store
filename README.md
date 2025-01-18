@@ -8,7 +8,7 @@ This is a simple Book Store application built in Go. The project is created as p
 - **Hexagonal Architecture:** Encourages clean code and scalability.
 - **Routing:** Built using the `chi` router.
 - **Database:** Data is stored in a PostgreSQL database.
-- **Containerization:** PostgreSQL runs in a Docker container for easy setup.
+- **Containerization:** PostgreSQL runs in a Docker container for easy setup 
 
 `
 
